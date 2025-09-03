@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: NetworkSecurity
+Version: 0.0.1
+Author: Muskan Kumar
+Author-email: muskankumar952593@gmail.com
+Requires-Dist: python-dotenv
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist
