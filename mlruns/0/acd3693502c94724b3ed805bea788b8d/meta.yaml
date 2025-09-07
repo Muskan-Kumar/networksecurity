@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/acd3693502c94724b3ed805bea788b8d/artifacts
+end_time: 1757189741605
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: acd3693502c94724b3ed805bea788b8d
+run_name: sneaky-worm-92
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757189740195
+status: 4
+tags: []
+user_id: MUSKAN BABU
